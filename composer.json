@@ -10,7 +10,8 @@
   "require": {
     "php": "^7.4",
     "bramus/router": "^1.5",
-    "vlucas/phpdotenv": "^5.3"
+    "vlucas/phpdotenv": "^5.3",
+    "ext-pgsql": "*"
   },
   "config": {
     "platform": {
